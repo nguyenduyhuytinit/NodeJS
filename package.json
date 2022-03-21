@@ -1,0 +1,29 @@
+{
+    "name": "gioi-thieu-node-js",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon --inspect app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nguyenduyhuytinit/NodeJS.git"
+    },
+    "keywords": [
+        "TinNDH"
+    ],
+    "author": "TinNDH",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/nguyenduyhuytinit/NodeJS/issues"
+    },
+    "homepage": "https://github.com/nguyenduyhuytinit/NodeJS#readme",
+    "dependencies": {
+        "express": "^4.17.3"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
